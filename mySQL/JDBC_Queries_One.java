@@ -6,7 +6,7 @@ import java.util.GregorianCalendar;
 import java.util.Scanner;
 import java.text.ParseException;
 //////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
-public class Lab4 
+public class JDBC_Example
 {
 	static Scanner kb = new Scanner(System.in);
 	//---------------------------------------------------------------------------------------------------------------
