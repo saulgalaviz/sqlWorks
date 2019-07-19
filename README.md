@@ -1,5 +1,5 @@
-Concepts: SQL Queries, Java Database Connectivity
+Concepts: SQL Queries
 
-Tools: MySQL Workbench, Microsoft SQL Server
+Tools: MySQL Workbench
 
-Languages: SQL, NoSQL, MySQL
+Languages: SQL, NoSQL
